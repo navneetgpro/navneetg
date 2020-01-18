@@ -7,12 +7,14 @@ sections:
     content: |-
       <!--StartFragment-->
 
-      0% finance availability, Laptop and Redmi TV also available
+      0% finance available
+
+      We sell Laptop and Redmi TV with reasonable price
 
       <!--EndFragment-->
     image: images/hero.png
     section_id: hero
-    title: A complete mobile shop
+    title: A complete mobile Shop
     type: section_hero
   - bg: gray
     featureslist:

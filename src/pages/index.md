@@ -4,10 +4,13 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: |-
+    content: >-
       <!--StartFragment-->
 
-      0% finance available, We sell Laptop and Redmi TV with reasonable price
+
+      0% finance available, We also sell Laptop and Redmi TV with reasonable
+      price
+
 
       <!--EndFragment-->
     image: images/hero.png

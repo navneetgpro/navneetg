@@ -12,7 +12,7 @@ sections:
       <!--EndFragment-->
     image: images/hero.png
     section_id: hero
-    title: A complete Mobile Shop
+    title: A complete mobile Shop
     type: section_hero
   - bg: gray
     featureslist:

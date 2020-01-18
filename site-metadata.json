@@ -6,12 +6,7 @@
     "logo_img": "/images/brandlogo.png",
     "has_nav": true,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {

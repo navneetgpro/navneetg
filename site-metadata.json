@@ -16,7 +16,7 @@
   },
   "footer": {
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_content": "Stay up to date with our latest Deals.",
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "A complete mobile shop",
@@ -25,8 +25,8 @@
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "NavneetG",
+        "url": "https://navneetg.tk",
         "new_window": true
       }
     ],
